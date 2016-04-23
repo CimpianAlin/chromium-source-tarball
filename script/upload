@@ -8,7 +8,7 @@ from lib.github import GitHub
 
 
 SOURCE_ROOT = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
-REPO = 'zcbenz/chromium-source-tarball'
+REPO = 'brave/chromium-source-tarball'
 
 
 def main():
