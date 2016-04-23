@@ -2,7 +2,7 @@
 
 Automatically generate source tarballs for Chromium releases channel, and upload
 them to the
-[releases](https://github.com/zcbenz/chromium-source-tarball/releases) page.
+[releases](https://github.com/brave/chromium-source-tarball/releases) page.
 
 Unlike the offical source tarballs which only contains dependencies for Linux
 that specified for Linux packagers, source tarballs in this repo includes the
