@@ -8,6 +8,11 @@ Unlike the offical source tarballs which only contains dependencies for Linux
 that specified for Linux packagers, source tarballs in this repo includes the
 dependencies of all platforms.
 
+## Dependencies
+
+  * `brew install xz`
+  * `pip install requests`
+  
 ## Usage
 
 ### 1. Bootstrap
